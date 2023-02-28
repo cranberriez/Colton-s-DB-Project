@@ -1,0 +1,170 @@
+[
+    {
+        "__EMPTY": "Diameter of cutter",
+        "Need to Know": "xxxxxxxxxxxxxxxx"
+    },
+    {
+        "__EMPTY": "Depth of cut",
+        "Need to Know": "xxxxxxxxxxxxxxxx"
+    },
+    {
+        "__EMPTY": "Feed rate inch per minute",
+        "Need to Know": "0.0000 IPM",
+        "__EMPTY_1": "Feed inches per tooth and Number of teeth in cutter and Revolutions per minute"
+    },
+    {
+        "__EMPTY": "Feed Inches per revolution",
+        "__EMPTY_1": "Feed rate inch per minute and Revolutions per minute"
+    },
+    {
+        "__EMPTY": "Feed inches per tooth",
+        "__EMPTY_1": "Feed rate inch per minute and Number of teeth in cutter and Revolutions per minute"
+    },
+    {
+        "__EMPTY": "Power constant",
+        "Need to Know": "xxxxxxxxxxxxxxxx"
+    },
+    {
+        "__EMPTY": "Metal removal rate",
+        "Need to Know": "0 CIM",
+        "__EMPTY_1": "Withh of cut and Depth of cut and Feed rate inch per minute"
+    },
+    {
+        "__EMPTY": "Revolutions per minute",
+        "__EMPTY_1": "Surface feet per minute and Diameter of cutter"
+    },
+    {
+        "__EMPTY": "Number of teeth in cutter",
+        "Need to Know": "xxxxxxxxxxxxxxxx"
+    },
+    {
+        "__EMPTY": "Surface feet per minute",
+        "Need to Know": "0.0 SFM",
+        "__EMPTY_1": "Diameter of cutter and Revolutions per minute"
+    },
+    {
+        "__EMPTY": "Withh of cut",
+        "Need to Know": "xxxxxxxxxxxxxxxx"
+    },
+    {
+        "__EMPTY": "Horsepower",
+        "__EMPTY_1": "Depth of cut and Withh of cut and Feed rate inch per minute and Power constant"
+    },
+    {
+        "__EMPTY": "Distance Between Teeth",
+        "__EMPTY_1": "Diameter of cutter and Number of teeth in cutter"
+    },
+    {
+        "__EMPTY": "clr",
+        "Known": "ipm",
+        "Need to Know": "dpm"
+    },
+    {
+        "__EMPTY": 3,
+        "Known": 6.1,
+        "Need to Know": 116.50141834326739
+    },
+    {
+        "__EMPTY": "find the speed and feed of cutter",
+        "__EMPTY_2": "SFM",
+        "__EMPTY_3": "IPT",
+        "__EMPTY_4": "# of teeth"
+    },
+    {
+        "__EMPTY": "Diameter of cutter ?",
+        "Known": 0.421875,
+        "Need to Know": "serr size",
+        "__EMPTY_1": "carbide tipped drill  ",
+        "__EMPTY_2": 265,
+        "__EMPTY_3": 0.0049,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "Surface feet per minute ?",
+        "Known": 30,
+        "Need to Know": 4.06,
+        "__EMPTY_1": "solid carbide drill",
+        "__EMPTY_2": 492,
+        "__EMPTY_3": 0.0034,
+        "__EMPTY_4": 2
+    },
+    {
+        "__EMPTY": "RPM=",
+        "Known": 271.64444444444445,
+        "Need to Know": 3.407849808429119,
+        "__EMPTY_1": "face mill long",
+        "__EMPTY_2": 700,
+        "__EMPTY_3": 0.0094
+    },
+    {
+        "__EMPTY": "Number of teeth in cutter ?",
+        "Known": 2,
+        "__EMPTY_1": "face mill short",
+        "__EMPTY_2": 850,
+        "__EMPTY_3": 0.01
+    },
+    {
+        "__EMPTY": "Feed inches per tooth ?",
+        "Known": 0.007
+    },
+    {
+        "__EMPTY": "IPM=",
+        "Known": 3.8030222222222223
+    },
+    {
+        "__EMPTY_1": "Material ",
+        "__EMPTY_2": "Cutter Material",
+        "__EMPTY_4": "Turring SFM",
+        "__EMPTY_5": "Drilling SFM"
+    },
+    {
+        "__EMPTY": "find the Surface feet and tooth load of cutter",
+        "__EMPTY_1": "A2",
+        "__EMPTY_2": "CAR",
+        "__EMPTY_4": "355-365"
+    },
+    {
+        "__EMPTY": "Diameter of cutter ?",
+        "Known": 1,
+        "__EMPTY_1": "A2",
+        "__EMPTY_2": "HHS",
+        "__EMPTY_4": "80-125",
+        "__EMPTY_5": 30
+    },
+    {
+        "__EMPTY": "Revolutions per minute ?",
+        "Known": 1750,
+        "__EMPTY_1": "4140 Pre Hard",
+        "__EMPTY_2": "CAR",
+        "__EMPTY_4": "430-685"
+    },
+    {
+        "__EMPTY": "Feed rate inch per minute ?",
+        "Known": 20,
+        "__EMPTY_1": "4141 Pre Hard",
+        "__EMPTY_2": "HHS",
+        "__EMPTY_4": "70-200"
+    },
+    {
+        "__EMPTY": "Number of teeth in cutter ?",
+        "Known": 3
+    },
+    {
+        "__EMPTY": "Surface feet per minute =",
+        "Known": 458.5
+    },
+    {
+        "__EMPTY": "Feed inches per tooth =",
+        "Known": 0.0038095238095238095
+    },
+    {
+        "__EMPTY": "CLR",
+        "Known": "IPM",
+        "Need to Know": "DPM"
+    },
+    {
+        "__EMPTY": 2,
+        "Known": 5.864,
+        "Need to Know": 167.99122553235736
+    }
+]
